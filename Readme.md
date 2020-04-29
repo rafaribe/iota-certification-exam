@@ -18,6 +18,5 @@ This might require a better organization, but here it goes 😁
  - [Private Tangle - Compass](https://docs.iota.org/docs/compass/0.1/introduction/overview)
  - [Wallets](https://docs.iota.org/docs/wallets/0.1/introduction/overview)
     - [Trinity Wallet](https://docs.iota.org/docs/wallets/0.1/trinity/introduction/overview)
-    - [Wallet (deprecated)](https://github.com/iotaledger/wallet)
     - [Hub - Wallet management system for crypto](https://docs.iota.org/docs/wallets/0.1/hub/introduction/overview)
 
