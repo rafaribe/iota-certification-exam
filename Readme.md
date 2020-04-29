@@ -1,6 +1,9 @@
-# Multiple documents for different concerns
-(might need better organization)
+# Study Material for the IOTA Certification Exam
 
+The purpose of this repo is to collect some online resources and some notes for studying for the IOTA Developer Certification Exam.
+
+This might require a better organization, but here it goes 😁
+## Multiple documents for different concerns
 [development](development.md)
 
 [Important Blog Posts](important-blog-posts.md)
